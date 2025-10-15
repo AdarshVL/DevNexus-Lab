@@ -169,3 +169,24 @@ You can connect, learn, and grow through this lab.
 ### “The best way to learn is by building — one experiment at a time.”
 
 ---
+
+## 👨‍💻 Author
+
+---
+### Adarsh Lilhare 
+
+🎓 B.Tech in Artificial Intelligence & Data Science
+
+💼 AI | Data Science | Computer Vision Enthusiast
+
+🔗 [GitHub](https://github.com/AdarshVL) 
+
+🔗 [LinkedIn](https://www.linkedin.com/in/adarsh-lilhare-b98a91290/)
+
+---
+
+🔹Expandable — anyone can contribute new modules
+
+🔹Built for terminal-first learners and open-source enthusiasts
+
+----
